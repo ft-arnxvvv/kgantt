@@ -31,5 +31,4 @@ TODO:
 ====
 
 * Restructure the proof of concept in proper entities/classes.
-* See future thoughs in the code itself: https://github.com/brainstorm/kgantt/blob/master/kgantt.py#L42
 
